@@ -205,6 +205,10 @@ invoice-intelligence-system/
 <h2><a class="anchor" id=`author--contact`></a>Author & Contact</h2>
 
 Samarjeet Singh
+
 Data Scientist
+
 ✉️Email: sammarjeet.412@gmail.com
+
 [LinkedIn](https://www.linkedin.com/in/samarjeet-singh-1908551b7)
+
