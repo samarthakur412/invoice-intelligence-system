@@ -4,12 +4,12 @@
 
 ## 📌Table of Contents
 
-- <a href="#project-overview">`Project Overview `</a>
-- <a href="#business-objectives">`Business Objectives `</a>`
-- <a href="#data-sources">`Data Sources `</a>`
-- <a href="#eda">`Exploratory Data Analysis `</a>`
-- <a href="#models-used">`Models Used `</a>`
-- <a href="#metrics">`Evaluation Metrics `</a>`
+- <a href="#project-overview">Project Overview </a>
+- <a href="#business-objectives">Business Objectives </a>
+- <a href="#data-sources">Data Sources </a>
+- <a href="#eda">Exploratory Data Analysis </a>
+- <a href="#models-used">Models Used </a>
+- <a href="#metrics">Evaluation Metrics </a>
 - <a href="#application">Application </a>
 - <a href="#project-structure">Project Structure </a>
 - <a href="#how-to-run-this-project">How to Run This Project </a>
@@ -39,8 +39,8 @@ This project implements an **end-to-end machine learning system** designed to su
 
 Why it matters:
 
-- Freight is a non-trival component of landed cost.
-- poor freight estimates distort margin and inventory planning.
+- Freight is a non-trivial component of landed cost.
+- Poor freight estimates distort margin and inventory planning.
 - Automating freight estimation helps procurement teams forecast true cost before invoice arrival.
 
 ![1773226174110](image/readme/1773226174110.png)
@@ -55,8 +55,8 @@ Why it matters:
 
 why it matters:
 
-- manual invoice review is time consuming and does not scale with transaction volume.
-- Abnormal freight charges, pricing deviations, or delivery delays often indicate errors, disputes or compilance risks.
+- Manual invoice review is time-consuming and does not scale with transaction volume.
+- Abnormal freight charges, pricing deviations, or delivery delays often indicate errors, disputes, or compliance risks.
 - An automated flagging system enables finance teams to focus attention on high-risk invoices while allowing low-risk invoices to be processed automatically.
 
 ![1773226601381](image/readme/1773226601381.png)
@@ -71,7 +71,7 @@ Data is stored in a relational SQLite database (inventory.db) with the following
 
 - vendor_invoice - invoice-level financial and timing data
 - purchases - item-level purchase details
-- purchase_prices - Refrence purchase prices
+- purchase_prices - Reference purchase prices
 - begin_inventory, end_inventory - inventory snapshots
 
 SQL aggregation is used to generate invoice-level features.
@@ -98,7 +98,7 @@ Statistical tests (t-test) are used to confirm that flagged invoices differ mean
 
 **Regression (Freight Prediction)**
 
-- Liner Regression (baseline)
+- Linear Regression (baseline)
 - Decision Tree Regressor
 - Random Forest Regressor (final model)
 
@@ -134,7 +134,7 @@ Hyperparameter tuning is performed using **GridSearchCV** with F1-score to handl
 
 <h2><a class="anchor" id="application"></a>🖥️End to End Application</h2>
 
-A streamlit application demonstration the complete pipeline:
+A streamlit application demonstrates the complete pipeline:
 
 - input invoice details
 - Predict expected freight
@@ -205,12 +205,6 @@ invoice-intelligence-system/
 <h2><a class="anchor" id=`author--contact`></a>Author & Contact</h2>
 
 Samarjeet Singh
-
 Data Scientist
-
 ✉️Email: sammarjeet.412@gmail.com
-
 [LinkedIn](https://www.linkedin.com/in/samarjeet-singh-1908551b7)
-
-
-
