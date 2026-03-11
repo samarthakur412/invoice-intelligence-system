@@ -4,7 +4,7 @@
 
 ## 📌Table of Contents
 
-- `<a href="#project-overview">`Project Overview `</a>`
+- <a href="#project-overview">`Project Overview `</a>
 - `<a href="#business-objectives">`Business Objectives `</a>`
 - `<a href="#data-sources">`Data Sources `</a>`
 - `<a href="#eda">`Exploratory Data Analysis `</a>`
@@ -211,4 +211,5 @@ Data Scientist
 ✉️Email: sammarjeet.412@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/samarjeet-singh-1908551b7)
+
 
