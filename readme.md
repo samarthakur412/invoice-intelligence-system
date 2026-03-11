@@ -177,7 +177,7 @@ invoice-intelligence-system/
 1. Clone the repository:
 
    ```
-   git clone https://github.com/samarthakur412/Vendor Invoice Intelligence System.git
+   git clone https://github.com/samarthakur412/invoice-intelligence-system.git
    ```
 2. Train and Save the Best Fit Models:
 
@@ -211,3 +211,4 @@ Data Scientist
 ✉️Email: sammarjeet.412@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/samarjeet-singh-1908551b7)
+
