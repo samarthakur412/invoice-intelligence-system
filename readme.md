@@ -5,15 +5,15 @@
 ## 📌Table of Contents
 
 - <a href="#project-overview">`Project Overview `</a>
-- `<a href="#business-objectives">`Business Objectives `</a>`
-- `<a href="#data-sources">`Data Sources `</a>`
-- `<a href="#eda">`Exploratory Data Analysis `</a>`
-- `<a href="#models-used">`Models Used `</a>`
-- `<a href="#metrics">`Evaluation Metrics `</a>`
-- `<a href="#application">`Application `</a>`
-- `<a href="#project-structure">`Project Structure `</a>`
-- `<a href="#how-to-run-this-project">`How to Run This Project `</a>`
-- `<a href="#author--contact">`Author & Contact `</a>`
+- <a href="#business-objectives">`Business Objectives `</a>`
+- <a href="#data-sources">`Data Sources `</a>`
+- <a href="#eda">`Exploratory Data Analysis `</a>`
+- <a href="#models-used">`Models Used `</a>`
+- <a href="#metrics">`Evaluation Metrics `</a>`
+- <a href="#application">Application </a>
+- <a href="#project-structure">Project Structure </a>
+- <a href="#how-to-run-this-project">How to Run This Project </a>
+- <a href="#author--contact">Author & Contact </a>
 
 ---
 
@@ -211,5 +211,6 @@ Data Scientist
 ✉️Email: sammarjeet.412@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/samarjeet-singh-1908551b7)
+
 
 
